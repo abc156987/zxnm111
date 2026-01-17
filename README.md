@@ -1,3 +1,4 @@
+#程烁（本人）：
 [__init__.py](https://github.com/user-attachments/files/24687184/__init__.py)[sentiment_analysis.py](https://github.com/user-attachments/files/24687180/sentiment_analysis.py)[translator.py](https://github.com/user-attachments/files/24687176/translator.py)[text_classify.py](https://github.com/user-attachments/files/24687175/text_classify.py)程烁（本人）：
 [10_3_1.py](https://github.com/user-attachments/files/24687135/10_3_1.py)[app.py](https://github.com/user-attachments/files/24687123/app.py)
 [config.py](https://github.com/user-attachments/files/24687124/config.py)
@@ -425,7 +426,7 @@ plt.xticks(np.arange(10)+0.5, categories, size=12)
 plt.yticks(np.arange(10)+0.3, categories, size=12)
 plt.show()
 plt.savefig("1.png")ing 10_3_1.py…]()
-李佳音：
+#李佳音：
 [10_3_2.py](https://github.com/user-attachments/files/24687156/10_3_2.py)
 [Uploading senti# 情感分析模型加载和推理
 import os
@@ -814,7 +815,7 @@ sentiment_analyzer = SentimentAnalyzer()
 
 ment_analysis.py…]()
 
-盛才厚：
+#盛才厚：
 [Uploadin# 机器翻译模型加载和推理
 import os
 import re
@@ -1639,7 +1640,7 @@ print("\n训练结果已保存，现在可以在qa_system中加载使用了。")
 print(f"检查点目录: {checkpoint_dir}")
 print(f"请确保在qa_system中使用最新的checkpoint进行加载。")
 
-殷小曼：
+#殷小曼：
 # API模块初始化文件
 
 
